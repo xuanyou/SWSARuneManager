@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWSARuneManager", "SWSARuneManager\SWSARuneManager.csproj", "{6193DBAF-D7E4-415A-84FB-7227BD9CF66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWSARuneTest", "..\SWSARuneTest\SWSARuneTest\SWSARuneTest.csproj", "{5F5E14B7-794F-4804-B97D-C16F15EE5573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6193DBAF-D7E4-415A-84FB-7227BD9CF66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6193DBAF-D7E4-415A-84FB-7227BD9CF66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6193DBAF-D7E4-415A-84FB-7227BD9CF66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6193DBAF-D7E4-415A-84FB-7227BD9CF66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5E14B7-794F-4804-B97D-C16F15EE5573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5E14B7-794F-4804-B97D-C16F15EE5573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5E14B7-794F-4804-B97D-C16F15EE5573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5E14B7-794F-4804-B97D-C16F15EE5573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
